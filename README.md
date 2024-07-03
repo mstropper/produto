@@ -1,3 +1,19 @@
+## Page product
+
+![image](https://github.com/mstropper/produto/assets/54640240/78220edb-1886-4a1e-a4c4-2113d84501ca)
+
+## Footer
+
+![image](https://github.com/mstropper/produto/assets/54640240/18d6d1b8-ee43-4cd8-9659-ba23f3699172)
+
+## Add product
+
+![image](https://github.com/mstropper/produto/assets/54640240/05272f89-fbec-418c-b721-dfdd7e529d24)
+
+## Product details
+
+![image](https://github.com/mstropper/produto/assets/54640240/b396e431-fb19-4066-939a-87c9d0687c5d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
