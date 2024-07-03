@@ -21,7 +21,6 @@ function Produto({ produtos }) {
           key={produto.id}
           bordered={true}
           cover={<img alt={produto.nome} src={produto.imagem} />}
-        //   style={{ width: 290, maxHeight: 350, marginTop: 5, marginLeft: 5, backgroundColor: 'black' }}
           className="w-72 max-h-80 mt-2 ml-2 mr-1 bg-black"
           onClick={() => handleCardClick(produto)}
         >
