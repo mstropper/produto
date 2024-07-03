@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Runs the backend on port 3001
+
+### `npm run backend`
+
+Runs the app in the development mode.\
+
 ### `npm start`
 
 Runs the app in the development mode.\
